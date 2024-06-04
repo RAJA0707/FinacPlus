@@ -1,0 +1,40 @@
+Q3) Imagine you work for amazon, what is the Meta data information you will store for
+an item in your Database. For E.g. the item is a shirt, once you have stored the Meta
+data how will use the information?
+
+Let’s analyse the meta data of the Electronic devices
+In the case of portable devices such as a smartphone, laptop, or camera, the metadata to be stored in the database would consist of a broad array of attributes to capture the essence of a specific item. undefined
+
+Product Name/Model: The type of device or in other words the model number or name of the device which is to be associated with the device’s IMEI.
+Brand/Manufacturer: The organization that manufactures it.
+Category: This requires identifying the class of the device in consideration such as Smartphone, laptop, camera and others.
+Description: An outline of the characteristics of the device with a reference to its key parameters, options, and opportunities.
+Color: The readily available color for the device or if comes in multiple colours.
+Dimensions and Weight: Determining the physical size and mass of the terminal or any other device used in executing the intended business.
+Screen Size/Resolution (for devices with screens) :The size and the density of the dots or pixels on the screen.
+Processor/CPU: Details regarding the processor or the heart of the device as it is commonly referred to.
+Memory/RAM: The quantity of the memory or the RAM that is accessible inside the device.
+Storage: This holds true, especially when it comes to the storage capacity of the device, be it internal storage of smart phones, hard disk or SSD of laptops.
+Operating System: The OS, which the device is using, may be Android, iOS, Window, macOS, etc..
+Camera Specifications (for devices with cameras): Details of the camera(s) incorporated in the device, including the resolution, lens, and additional characteristics if any.
+Battery Capacity/Life: The battery capacity of the device and an expected battery life analysis.
+Connectivity: It will also provide details about networking facility like Wi-Fi, Bluetooth, USB jacks, etc.
+Ports: Device interfaces including the number and kinds of ports that the device may have like USB-C, HDMI, Headphone jack etc.
+Price: This has to do with the cost of the physical device, that is, the cost that the buyer has to part with in order to own it.
+Availability: Whether or not there is a stock of the devices with customers.
+Reviews and Ratings: An evaluation of what customers had to say and their experience with the device.
+Warranty Information: Information regarding whether the device is included in a warranty, as well as the period for which warranty is valid.
+Additional Features: There is no functional common format definition for any extra features or functions of the device that are not characterized by other metadata fields.
+
+In what way this type of metadata used to differentiate the products
+
+
+Search and Filtering: Through parameters such as manufacturer of the device, the kind of device, the name of the device, etc the user can look for the devices he needs.
+
+Product Recommendations: Thus, depending on the customer preference, the recommendations can be different.
+
+Inventory Management: It also assists in controlling inventory since relevant information about the devices that are available is well maintained.
+
+Personalization: Based on the customer’s past browsing and purchase history and specific attributes of the electronic devices they have shown an interest in, targeted recommendations and marketing messages can be created.
+
+Analytics and Insights: From the metadata analysis, insights can be derived from customers’ interest, trends within the market and the various gadgets, which is crucial in decision making and marketing.
